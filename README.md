@@ -1,5 +1,5 @@
 # Calculator
-Calculator Menu:
+Calculator Menu:  
 1: Sum Numbers  
 2: Multiplication  
 3: Division  
